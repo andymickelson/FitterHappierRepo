@@ -18,5 +18,19 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background: rgb(134,131,184);
+    background: linear-gradient(90deg, rgba(134,131,184,1) 0%, rgba(16,149,68,1) 51%, rgba(255,143,0,1) 100%);
+}
+
+p1 {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+p1:hover{
+    text-orientation: sideways;
 }
