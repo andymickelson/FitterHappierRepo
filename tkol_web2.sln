@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tkol_web2", "tkol_web2\tkol_web2.csproj", "{A1DB6A16-E9F4-4CDE-A4F2-5B772B1E82BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DB6A16-E9F4-4CDE-A4F2-5B772B1E82BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DB6A16-E9F4-4CDE-A4F2-5B772B1E82BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DB6A16-E9F4-4CDE-A4F2-5B772B1E82BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DB6A16-E9F4-4CDE-A4F2-5B772B1E82BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E28525C-0CC8-4082-B38D-60F51C10F41A}
+	EndGlobalSection
+EndGlobal
